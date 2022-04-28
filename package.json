@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.17.2"
+  },
+  "name": "clase3",
+  "version": "0.0.1",
+  "description": "Clase de Fazt Express",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "clase",
+    "nodejs",
+    "express"
+  ],
+  "author": "Devilleros",
+  "license": "ISC"
+}
